@@ -1,1 +1,1 @@
-Black jack game built with HTML, CSS and Javascript.
+Mini Blackjack game built with HTML, CSS and Javascript.
